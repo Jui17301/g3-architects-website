@@ -1,4 +1,7 @@
 /* Shared Style */
+body{
+  margin: 0;
+}
 .btn-primary{
   border-radius: 8px;
   color:#FFF;
